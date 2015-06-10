@@ -2,6 +2,7 @@
   "name" : "termcolors",
   "description" : "Add terminal color support to command line node.js",
   "author" : "Dav Glass <davglass@gmail.com>",
+  "version" : "0.0.1",
   "engines" : ["node"],
   "directories" : { "lib" : "lib" },
   "main" : "./lib/termcolors",
